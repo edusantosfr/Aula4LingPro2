@@ -1,0 +1,11 @@
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\bin\Debug\aula4vetores.exe.config
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\bin\Debug\aula4vetores.exe
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\bin\Debug\aula4vetores.pdb
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.csproj.AssemblyReference.cache
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.Form1.resources
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.Properties.Resources.resources
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.csproj.GenerateResource.cache
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.csproj.CoreCompileInputs.cache
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.exe
+C:\Users\22200552\Source\Repos\aula4vetores\aula4vetores\obj\Debug\aula4vetores.pdb
